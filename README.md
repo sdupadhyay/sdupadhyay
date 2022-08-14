@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Upadhyay</h1>  
-<img src="https://camo.githubusercontent.com/0d300eb68d44205d2c890598c5b6feef1e949836b4db3ff2e99734bc3c9e8de5/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534376371387a7131386e786562706f357432723164676e6d796464696264713935337264373476327862267269643d67697068792e6769662663743d67"/>
+<img   src="https://camo.githubusercontent.com/0d300eb68d44205d2c890598c5b6feef1e949836b4db3ff2e99734bc3c9e8de5/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534376371387a7131386e786562706f357432723164676e6d796464696264713935337264373476327862267269643d67697068792e6769662663743d67" align="center"/>
 <h3 align="center">A passionate Full-Stack Web developer</h3>  
 <p>An Aspiring Full Stack Web developer specialization in MERN stack.Self motivated and always ready to learn new technologies. Wanted to create unique product as a full stack web developer.</p>
   
@@ -7,7 +7,7 @@
 - - 👨‍💻 All of my projects are available at [http://www.sumitupadhyay.com](http://www.sumitupadhyay.com)  
   
 - 📫 How to reach me **sumit.upadhyay108@gmail.com**
-- <h3 align="left">Connect with me:</h3>  
+- <h3 align="left">Connect with me:</h3>   
 <p align="left">  
 <a href="https://twitter.com/sdupadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdupadhyay" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/sdupadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdupadhyay" height="30" width="40" /></a>  
