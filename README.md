@@ -9,7 +9,7 @@
     🌱 I’m currently looking for an opportunity as a Full Stack Web Developer
     ⚡ I'm a passionate software developer
     🔭 I’m currently learning React and practicing Data Structure and Algorithm
-    😎 I love to solve puzzles and play cricket.
+    😎 I love to solve puzzles.
     ❤️ You can reach me at sumit.upadhyay108@gmail.com
     
 ## Connect with me:  
