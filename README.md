@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="55"/>, I'm Sumit Upadhyay <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"/></h1>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Problem+Solver;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Problem+Solver;Full+Stack+Developer;continuous+Learner)](https://git.io/typing-svg)
 
 <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g" height="" width="320" alt="Picture">
 # 💫About Me :
