@@ -6,7 +6,7 @@
 # 💫About Me :
 
     👋 Hello, Welcome to my profile
-    🌱 I’m currently looking for an opportunity as a Full Stack Web Developer
+    🌱 I’m currently looking for an opportunity as a Software Developer 
     ⚡ I'm a passionate software developer
     🔭 I’m currently learning React and practicing Data Structure and Algorithm
     😎 I love to solve puzzles.
