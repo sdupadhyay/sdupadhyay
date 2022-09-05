@@ -24,7 +24,12 @@
 <p align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/></p>
   
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sdupadhyay&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sdupadhyay&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdupadhyay&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<div height="500px">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sdupadhyay&show_icons=true&hide_border=true&theme=radical" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sdupadhyay&hide_border=true&theme=radical" />
+</div>
+
+## 🔝 Most used languages :
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdupadhyay&layout=compact&hide_border=true&theme=radical" />
+  
 
