@@ -3,14 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Problem+Solver;Full+Stack+Developer;continuous+Learner)](https://git.io/typing-svg)
 
 <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g" height="" width="320" alt="Picture">
- 💫About Me :
 
-    👋 Hello, Welcome to my profile
-    🌍 I am from Una,Gujarat
-    🌱 I’m currently looking for an opportunity as a Full Stack Web developer
-    🔭 I’m currently learning React and practicing Data Structure and Algorithm
-    😎 I love to solve puzzles and listen to music.
-    ❤️ You can reach me at sumit.upadhyay108@gmail.com
+## 💫About Me :
+
+   - 👋 Hello, Welcome to my profile
+   - 🌍 I am from Una,Gujarat
+   - 🌱 I’m currently looking for an opportunity as a Full Stack Web developer
+   - 🔭 I’m currently learning React and practicing Data Structure and Algorithm
+   - 😎 I love to solve puzzles and listen to music.
+  - 💬 You can reach me at sumit.upadhyay108@gmail.com
+  - ❤️ You can find my work on my [Portfolio](https://sumit-upadhyay-portfolio-website.netlify.app/)
     
 ## Connect with me:  
 <p align="left">  
