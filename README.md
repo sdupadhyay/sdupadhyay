@@ -25,8 +25,12 @@
 # 💻Tech Stack:
 
 <p align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>  <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80"/>
-<img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="redux" width="80" height="80"/>
 </p>
+<p align="center"> <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="redux" width="80" height="80"/>
+<img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="redux" width="80" height="80"/>
+<img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="redux" width="80" height="80"/>
+</p>
+
   
 # 📊GitHub Stats :
 <div height="500px">
