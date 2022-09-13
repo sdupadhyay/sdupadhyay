@@ -7,7 +7,7 @@
 
 ## 💫About Me :
 
-   - 👋 Hello, Welcome to my profile
+   - 👋 Hello, Welcome to my profile.
    - 🌍 I am from Una,Gujarat
    - 🌱 I’m currently looking for an opportunity as a Full Stack Web developer
    - 🔭 I’m currently learning React and practicing Data Structure and Algorithm
