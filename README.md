@@ -12,7 +12,7 @@
    - 🌱 I’m currently looking for an opportunity as a Full Stack Web developer.
    - 🔭 I’m currently learning React and practicing Data Structure and Algorithm.
    - 😎 I love to solve puzzles and listen to music.
-  - 💬 You can reach me at sumit.upadhyay108@gmail.com.
+  - 💬 You can reach me at sumit.upadhyay108@gmail.com
   - ❤️ You can find my work on my [Portfolio](https://sumit-upadhyay-portfolio-website.netlify.app/)
     
 ##  Connect with me:  
