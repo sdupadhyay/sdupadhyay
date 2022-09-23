@@ -30,6 +30,9 @@
 <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="redux" width="80" height="80"/>
 <img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="redux" width="80" height="80"/>
 </p>
+<p align="center">
+<img hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="redux" width="80" height="80"/>
+</p>
 
   
 # 📊GitHub Stats :
