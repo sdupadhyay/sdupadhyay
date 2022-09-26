@@ -16,11 +16,32 @@
   - ❤️ You can find my work on my [Portfolio](https://sumit-upadhyay-portfolio-website.netlify.app/)
     
 ##  Connect with me:  
-<p align="left">  
-<a href="https://twitter.com/upadhyay108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdupadhyay" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/sumit-upadhyay-28669a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdupadhyay" height="30" width="40" /></a>  
-<a href="https://codesandbox.com/sdupadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sdupadhyay" height="30" width="40" /></a>  
-</p>
+
+
+</a>
+
+<a title="sumit.upadhyay108@gmail.com" href="mailto:arjunbhakuni23@gmail.com">
+
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sumit.upadhyay108@gmail.com" />
+
+</a>
+
+<a href="https://linkedin.com/in/sumit-upadhyay-28669a23a">
+
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/sumit-upadhyay-28669a23a" />
+
+</a>
+<a href="https://twitter.com/upadhyay108">
+
+  <img align="center" src="https://img.shields.io/badge/Twiter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/upadhyay108" />
+
+</a>
+<a href="https://codesandbox.com/sdupadhyay">
+
+  <img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/upadhyay108" />
+
+</a>
+
 
 # 💻Tech Stack:
 
