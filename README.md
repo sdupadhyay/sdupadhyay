@@ -56,7 +56,7 @@
 </p>
 
   
-# 📊GitHub Stats :
+# 📊GitHub Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=sdupadhyay&show_icons=true&hide_border=true&theme=merko" />
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sdupadhyay&hide_border=true&theme=merko" />
